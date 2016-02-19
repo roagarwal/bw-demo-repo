@@ -1,0 +1,9 @@
+!SESSION 2016-02-19 18:26:40.498 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -dev file:D:/CloudFoundryAWSsetup/bwce-workspace-demo/.metadata/.plugins/org.eclipse.pde.core/BWApplication (1)/dev.properties -os win32 -ws win32 -arch x86_64 -consoleLog -console -clean
+
+!ENTRY org.eclipse.osgi 4 0 2016-02-19 18:26:57.330
+!MESSAGE Bundle tibco.bwce.sample.binding.rest.BookStore.application_1.0.0.qualifier [234] is not active.
